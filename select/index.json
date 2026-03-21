@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "the perfect pair",
   "base_artist": "beabadoobee",
-  "createdAt": "2026-03-19T11:33:58.516637Z",
+  "createdAt": "2026-03-21T14:00:20.312937Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -115,6 +115,15 @@
       "artist": "beabadoobee",
       "has_synced": false,
       "path": "select/pl_01_the_perfect_pair_beabadoobee.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "the perfect pair",
+      "artist": "beabadoobee",
+      "has_synced": true,
+      "path": "select/localdb_01_the_perfect_pair_beabadoobee.lrc",
+      "repo_name": "HwtEBQiuX-c"
     }
   ]
 }
